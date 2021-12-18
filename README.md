@@ -19,6 +19,7 @@ C# 8
 
 Visual Studio 2019
 
-Device
+
+Device:
 
 macbook 2019 intel-core i5
