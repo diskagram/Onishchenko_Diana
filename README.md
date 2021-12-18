@@ -1,4 +1,4 @@
-#Go to Myclass
+### Go to MyClass
 Diana Onishchenko ka91 
 
 To run:
