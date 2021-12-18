@@ -12,9 +12,13 @@ For testing:
 
 
 During development i used:
+
 Chrome v94
+
 C# 8
+
 Visual Studio 2019
 
 Device
+
 macbook 2019 intel-core i5
