@@ -1,4 +1,4 @@
-### Go to MyClass
+### kpi1_.sln
 Diana Onishchenko ka91 
 
 To run:
