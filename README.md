@@ -24,4 +24,4 @@ Device:
 
 macbook 2019 intel-core i5
 
-all project is in "kpi"
+all project is in "kpi1"
