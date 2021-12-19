@@ -23,3 +23,5 @@ Visual Studio 2019
 Device:
 
 macbook 2019 intel-core i5
+
+all project is in "kpi"
