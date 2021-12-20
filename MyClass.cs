@@ -11,7 +11,7 @@ public static class GlobalVariable
 	public static Dictionary<string, string> my_data;
 	public static Driver driver;
 	public static string pay_grade_id;
-	public static string path_to_driver = "/Users/donevd/Downloads/driver" ;
+	public static string path_to_driver = "/Users/OnishchenkoD/Downloads/driver" ;
 
 
 }
