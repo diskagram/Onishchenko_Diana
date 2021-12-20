@@ -5,6 +5,7 @@ using System.Text;
 using System.Linq;
 
 
+
 namespace task__1
 {
     [TestFixture]
@@ -12,19 +13,18 @@ namespace task__1
     {
         static int DigitalRoot(long num)
         {
-            while (num > 9)
-            {
-                num = num.ToString().ToCharArray().Sum(x => x - '0');
-            }
-
-            return (int)num;
+           var list = num.ToString().Select(ch => int.Parse(ch.ToString()));
+            int sum = 0;
+            foreach (var number in list) sum += number;
+            if (sum > 9) {
+                list1 = sum.ToString().Select(ch => int.Parse(ch.ToString()));
+            int sum1 = 0;
+            foreach (var number in list) sum1 += digit;
+                return sum1;}
+            return sum;
         }
 
-        static int digital_root(long num)
-        {
-            var t = DigitalRoot(num);
-            return t;
-        }
+        
         [Test]
         public void Test1()
         {
