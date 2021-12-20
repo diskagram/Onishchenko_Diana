@@ -1,2 +1,3 @@
-# Onishchenko_Dianaa
+# Code is in MyClass
+
 Diana
